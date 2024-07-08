@@ -1,0 +1,14 @@
+/* AñadirTarea.module.css */
+.formContainer {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #f8f9fa; /* Color de fondo claro */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+}
+
+h1 {
+    margin-bottom: 1rem;
+    text-align: center;
+}

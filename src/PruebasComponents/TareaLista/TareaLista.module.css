@@ -1,0 +1,15 @@
+/* TareaLista.module.css */
+.listContainer {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.listContainer .list-group-item {
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.listContainer .list-group-item:hover {
+    background-color: #f8f9fa;
+}
